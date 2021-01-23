@@ -1,0 +1,184 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "userName": "gsp",
+      "password": "haigsp",
+      "bankAccountNumber": "123457A",
+      "balance": 98420,
+      "phone": 8795000555,
+      "email": "gsp@gmail.com",
+      "active": false,
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "userName": "sankar",
+      "password": "haisankar",
+      "bankAccountNumber": "123457A",
+      "balance": 86020,
+      "phone": 8795462132,
+      "email": "kgp@gmail.com",
+      "active": true,
+      "type": "user"
+    },
+    {
+      "id": 3,
+      "userName": "sai",
+      "password": "saikrishna",
+      "bankAccountNumber": "12546AB",
+      "balance": 37300,
+      "phone": 8954762103,
+      "email": "sai@gmail.com",
+      "active": false,
+      "type": "user"
+    },
+    {
+      "bankAccountNumber": "84652B",
+      "balance": 95250,
+      "active": false,
+      "type": "user",
+      "id": 4,
+      "userName": "sneha",
+      "password": "snehahai",
+      "email": "sneha@gmail.com",
+      "phone": "6854729130"
+    },
+    {
+      "email": "sree@gmail.com",
+      "userName": "sree",
+      "phone": "4789561230",
+      "password": "sreehai",
+      "active": false,
+      "type": "",
+      "bankAccountNumber": "",
+      "balance": 0,
+      "id": 6
+    },
+    {
+      "bankAccountNumber": "6514CF",
+      "balance": 25000,
+      "type": "user",
+      "id": 7,
+      "userName": "jai",
+      "password": "haijai",
+      "email": "jai@gmail.com",
+      "phone": "6985740321",
+      "active": false
+    }
+  ],
+  "Transactions": [
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 1000,
+      "transactionDate": "2020-11-12T17:42:18.898Z",
+      "id": 1
+    },
+    {
+      "sender": "12546AB",
+      "receiver": "84652B",
+      "amount": 10000,
+      "transactionDate": "2020-11-12T17:42:18.898Z",
+      "id": 2
+    },
+    {
+      "sender": "5555A",
+      "receiver": "12546AB",
+      "amount": 5000,
+      "transactionDate": "2020-12-02T17:42:18.898Z",
+      "id": 3
+    },
+    {
+      "sender": "84652B",
+      "receiver": "84652B",
+      "amount": 6000,
+      "transactionDate": "2020-12-10T17:42:18.898Z",
+      "id": 4
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 4000,
+      "transactionDate": "2020-12-20T17:42:18.898Z",
+      "id": 5
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 1000,
+      "transactionDate": "2020-12-20T17:42:18.898Z",
+      "id": 6
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 15000,
+      "transactionDate": "2021-01-05T17:42:18.898Z",
+      "id": 7
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 100,
+      "transactionDate": "2021-01-10T17:42:18.898Z",
+      "id": 8
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 10,
+      "transactionDate": "2021-01-16T17:42:18.898Z",
+      "id": 9
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 1000,
+      "transactionDate": "2021-01-18T17:42:18.898Z",
+      "id": 10
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 1000,
+      "transactionDate": "2021-01-20T17:42:18.898Z",
+      "id": 11
+    },
+    {
+      "sender": "5555A",
+      "receiver": "84652B",
+      "amount": 1000,
+      "transactionDate": "2021-01-20T17:42:18.898Z",
+      "id": 12
+    },
+    {
+      "sender": "123457A",
+      "receiver": "123457A",
+      "amount": 100,
+      "transactionDate": "2021-01-23T21:15:03.547Z",
+      "id": 13
+    },
+    {
+      "sender": "123457A",
+      "receiver": "123457A",
+      "amount": 100,
+      "transactionDate": "2021-01-23T21:15:03.547Z",
+      "id": 14
+    },
+    {
+      "sender": "6514CF",
+      "receiver": "6514CF",
+      "amount": 250,
+      "transactionDate": "2021-01-23T21:19:55.952Z",
+      "id": 15
+    },
+    {
+      "sender": "6514CF",
+      "receiver": "84652B",
+      "amount": 250,
+      "transactionDate": "2021-01-23T21:19:55.952Z",
+      "id": 16
+    }
+  ]
+}
